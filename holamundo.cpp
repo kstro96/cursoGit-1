@@ -4,5 +4,5 @@ int main()
 {
 	string nombre;
 	cin >> nombre;
-	cout << "hola mundo" << nombre;
+	cout << "hola mundo";
 }
